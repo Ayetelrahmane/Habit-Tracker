@@ -1,0 +1,7 @@
+# Habit Tracker - Python Dependencies
+
+# MySQL database connectivity
+mysql-connector-python
+
+# Automated testing framework
+pytest
